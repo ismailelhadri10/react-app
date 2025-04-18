@@ -18,8 +18,16 @@
     "url": "https://github.com/ismailelhadri10/react-app/issues"
   },
   "homepage": "https://github.com/ismailelhadri10/react-app#readme",
-  "description": "",
   "devDependencies": {
     "concurrently": "^9.1.2"
-  }
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.13.2",
+    "react-router-dom": "^7.5.1"
+  },
+  "description": ""
 }
